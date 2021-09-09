@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FunnelsTestCRM" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-09T15:59:07" hostname="DESKTOP-TNVK4QM" time="20.747">
+  <properties/>
+  <testcase name="renameFunnel()" classname="FunnelsTestCRM" time="20.747"/>
+  <system-out><![CDATA[renameFunnel()
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 93.0.4577.63 (ff5c0da2ec0adeaed5550e6c7e98417dac77d98a-refs/branch-heads/4577@{#1135}) on port 46464
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+сен 09, 2021 6:59:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
